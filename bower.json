@@ -1,0 +1,15 @@
+{
+    "name": "Leaflet.FeatureGroup.SubGroup",
+    "version": "1.0.2",
+    "main": "dist/leaflet.featuregroup.subgroup",
+    "ignore": [],
+    "files": [
+      "dist/*.js"
+    ],
+    "dependencies": {},
+    "devDependencies": {
+        "git-rev": "^0.2.1",
+        "magic-string": "^0.11.4",
+        "uglify-js": "^2.6.2"
+    }
+}
