@@ -4,8 +4,7 @@
       "main": "src/subgroup.js",
     "ignore": [],
     "files": [
-      "src/*.js",
-      "dist/*.js"
+      "src/*.js"
     ],
     "dependencies": {},
     "devDependencies": {
