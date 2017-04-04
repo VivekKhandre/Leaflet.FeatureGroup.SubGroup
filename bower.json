@@ -4,7 +4,8 @@
       "main": "dist/leaflet.featuregroup.subgroup",
     "ignore": [],
     "files": [
-      "src/*.js"
+      "src/*.js",
+      "dist/*.js"
     ],
     "dependencies": {},
     "devDependencies": {
